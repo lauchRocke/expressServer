@@ -6,8 +6,8 @@ The link to the blog is here:
 
 ## Start by intialzing package
 
-##` npm i`
+` npm i`
 
 ## Run the server
 
-##`node server.js`
+`node server.js`
